@@ -1,0 +1,28 @@
+html {
+  background: url("../img/spiral.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.bright {
+  color: white;
+  text-shadow: 2px 5px 0 black;
+}
+
+.container {
+position: fixed;
+top:330px;
+right:5px;
+}
+
+.button-text {
+  color: black;
+}
+
+p {
+  text-align: center;
+  font-size: 2em;
+}
+
