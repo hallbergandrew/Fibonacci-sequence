@@ -3,6 +3,7 @@ var fibonacci = function(number) {
       return 0;
     }
   else if (number === 2) {
+    console.log(number); //Count the number of 2's returned ana = fibonacci number. Code not necessary.
       return 1;
     }
   else if (number > 2) {
